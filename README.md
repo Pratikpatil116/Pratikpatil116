@@ -1,7 +1,7 @@
 <img align="right" alt="" width="400" src="https://www.linkedin.com/in/g-sudarshan/detail/background-image/">
 <!--img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px" style="max-width:100%;"-->
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Pratik Patil
-<h3 align="center">Currently a third-year Computer Technology major at SKN Sinhgad Institute of Technology and Science (SKNSITS) Pune with minor in Cyber Security.</br>Always trying to Figure out Good Things....</h3>
+<h3 align="center">Currently a third-year Computer Technology major at SKN Sinhgad Institute of Technology and Science (SKNSITS) Pune with minor in Cyber Security.</h3><h2 align="center">Always trying to Figure out Best Things....</h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikpatil116&label=Profile%20views&color=0e75b6&style=flat" alt="pratikpatil116" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
