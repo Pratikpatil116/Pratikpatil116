@@ -40,13 +40,10 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> </br> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikpatil116" alt="pratikpatil116" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikpatil116" alt="pratikpatil116" /></a> </p></br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpatil116&show_icons=true&locale=en&layout=compact" alt="pratikpatil116" /></p> </br> </br></br></br></br></br></br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpatil116&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pratikpatil116" /></p> </br></br></br></br></br></br></br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpatil116&show_icons=true&locale=en" alt="pratikpatil116" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpatil116&show_icons=true&locale=en" alt="pratikpatil116" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpatil116&" alt="pratikpatil116" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpatil116&show_icons=true&locale=en&theme=tokyonight" alt="pratikpatil116" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpatil116&theme=tokyonight" alt="pratikpatil116" /></p>
 
