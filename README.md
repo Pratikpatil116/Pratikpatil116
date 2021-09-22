@@ -41,6 +41,9 @@
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> </br> 
 
+
+[![Pratik's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pratikpatil116&theme=xcode)](https://git.io/Pratikpatil116)
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikpatil116" alt="pratikpatil116" /></a> </p></br>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpatil116&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pratikpatil116" /></p> </br></br></br></br></br></br></br>
