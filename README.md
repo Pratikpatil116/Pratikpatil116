@@ -46,7 +46,9 @@
 
 [![Pratik's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pratikpatil116&theme=xcode)](https://git.io/Pratikpatil116)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikpatil116" alt="pratikpatil116" /></a> </p></br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikpatil116&theme=onedark" alt="pratikpatil116" /></a> </p></br>
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpatil116&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pratikpatil116" /></p> </br></br></br></br></br></br></br>
 
