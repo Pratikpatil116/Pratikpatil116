@@ -1,7 +1,24 @@
-<img align="right" alt="" width="400" src="https://www.linkedin.com/in/g-sudarshan/detail/background-image/">
+
+<!-- <img align="right" alt="" width="400" src="https://www.linkedin.com/in/g-sudarshan/detail/background-image/"> -->
 <!--img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px" style="max-width:100%;"-->
-<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Pratik Patil
-</br><h1 align="center">Explore => Learn => Code :)</h1>
+<h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Pratik Patil :)
+
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Explore+=>+Learn+=>+Code...;Always+Trying+to+Figured+Out+Best+Things...;Welcome+To+My+Profile...)](https://git.io/typing-svg)
+
+ <h1 align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
+    Explore => Learn => Code
+  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    </h1>
+ 
+<!-- <h1 align="center">Explore => Learn => Code :)</h1> -->
  <h3 align="center">Currently a third-year Computer Technology major at SKN Sinhgad Institute of Technology and Science (SKNSITS) Pune with minor in Cyber Security.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikpatil116&label=Profile%20views&color=0e75b6&style=flat" alt="pratikpatil116" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
@@ -23,7 +40,7 @@
 <a href="https://www.leetcode.com/pratik0116" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pratik0116" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/pratik_chalisga1?hr_r=1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pratik patil" height="30" width="40" /></a> 
 <a href="https://auth.geeksforgeeks.org/user/pratikchalisgaon/practice/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="pratik patil" height="30" width="40" /></a> 
-</p> </br>
+</p> 
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -41,17 +58,35 @@
   <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> </br> 
+  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p> 
+</br> 
 
+   
+  <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+  
+  #
+  
+  ![image](https://user-images.githubusercontent.com/73706697/123554226-9df6cf80-d79c-11eb-90f9-fc1d2a28d8c4.png)
+  
+  
+
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikpatil116&theme=juicyfresh" alt="pratikpatil116" /></a> </p>
+
+
+
+<p align="center" ><img width="38%" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpatil116&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pratikpatil116" /></p>
+
+
+ # 📈 Stats
+<p align="center">
+	
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=pratikpatil116&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpatil116&theme=tokyonight" />
+</p>
 
 [![Pratik's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pratikpatil116&theme=xcode)](https://git.io/Pratikpatil116)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikpatil116&theme=juicyfresh" alt="pratikpatil116" /></a> </p></br>
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikpatil116&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="pratikpatil116" /></p> </br></br></br></br></br></br></br>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikpatil116&show_icons=true&locale=en&theme=tokyonight" alt="pratikpatil116" /></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpatil116&theme=tokyonight" alt="pratikpatil116" /></p>
-
+    
+  
