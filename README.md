@@ -7,16 +7,12 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Explore+=>+Learn+=>+Code...;Always+Trying+to+Figured+Out+Best+Things...;Welcome+To+My+Profile...)](https://git.io/typing-svg)
 
  <h1 align="center">
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-    Explore => Learn => Code
-  <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
-    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
-    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
-    </h1>
+     <img src="https://cdn2.scratch.mit.edu/get_image/user/61879033_60x60.png" width="100" height="100"/>Explore => Learn => Code
+  <img src="https://cdn2.scratch.mit.edu/get_image/user/61879033_60x60.png" width="100" height="100"/></h1>
+    
+    
+   
+    
  
 <!-- <h1 align="center">Explore => Learn => Code :)</h1> -->
  <h3 align="center">Currently a third-year Computer Technology major at SKN Sinhgad Institute of Technology and Science (SKNSITS) Pune with minor in Cyber Security.</h3>
