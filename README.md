@@ -1,8 +1,8 @@
 <img align="right" alt="" width="400" src="https://www.linkedin.com/in/g-sudarshan/detail/background-image/">
 <!--img align="right" src="https://raw.githubusercontent.com/akshitagupta15june/akshitagupta15june/master/200w.webp" width="210px" style="max-width:100%;"-->
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Pratik Patil
-<h3 align="center">Currently a third-year Computer Technology major at SKN Sinhgad Institute of Technology and Science (SKNSITS) Pune with minor in Cyber Security.</h3><h2 align="center">Always trying to Figure out Best Things....</h2>
-
+</br><h1 align="center">Explore => Learn => Code :)</h1>
+ <h3 align="center">Currently a third-year Computer Technology major at SKN Sinhgad Institute of Technology and Science (SKNSITS) Pune with minor in Cyber Security.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikpatil116&label=Profile%20views&color=0e75b6&style=flat" alt="pratikpatil116" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
   
@@ -46,7 +46,7 @@
 
 [![Pratik's github activity graph](https://activity-graph.herokuapp.com/graph?username=Pratikpatil116&theme=xcode)](https://git.io/Pratikpatil116)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikpatil116&theme=onedark" alt="pratikpatil116" /></a> </p></br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pratikpatil116&theme=juicyfresh" alt="pratikpatil116" /></a> </p></br>
 
 
 
