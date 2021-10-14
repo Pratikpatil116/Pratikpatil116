@@ -4,7 +4,7 @@
 <h1 align="center">Hi <img src="https://github.com/mitul3737/mitul3737/blob/main/Wave.gif" height="55px" width="55px">, I'm Pratik Patil :)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Explore+=>+Learn+=>+Code...;Always+Trying+to+Figured+Out+Best+Things...;Welcome+To+My+Profile...)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=40&center=true&vCenter=true&width=1000&height=100&lines=Explore+=>+Learn+=>+Code...;Always+Trying+to+Figured+Out+Best+Things.;Welcome+To+My+Profile...)](https://git.io/typing-svg)
 
  <h1 align="center">
      <img src="https://cdn2.scratch.mit.edu/get_image/user/61879033_60x60.png" width="100" height="100"/>Explore => Learn => Code
