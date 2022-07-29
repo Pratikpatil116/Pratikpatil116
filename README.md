@@ -19,11 +19,12 @@
     
  
 <!-- <h1 align="center">Explore => Learn => Code :)</h1> -->
- <h3 align="center">Currently a third-year Computer Technology major at SKN Sinhgad Institute of Technology and Science (SKNSITS) Pune with minor in Cyber Security.</h3>
+ <h3 align="center">Currently a Last-year Computer Technology major at SKN Sinhgad Institute of Technology and Science (SKNSITS) Pune.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pratikpatil116&label=Profile%20views&color=0e75b6&style=flat" alt="pratikpatil116" /> </p>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
   
 - 🌱 I’m currently learning **C++,DS/Algo** </br>
+
 - 🎥 I regularly uploads YouTube Video on:-  https://bit.ly/3zOyQls
 
 - 💬 Ask me about **C++ , Front-end Development**
